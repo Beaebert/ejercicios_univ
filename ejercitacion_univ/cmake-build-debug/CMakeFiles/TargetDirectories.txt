@@ -1,0 +1,3 @@
+C:/Users/Be/Documents/ejercitacion_uni/ejercitacion_univ/cmake-build-debug/CMakeFiles/ejercitacion_univ.dir
+C:/Users/Be/Documents/ejercitacion_uni/ejercitacion_univ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Be/Documents/ejercitacion_uni/ejercitacion_univ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
