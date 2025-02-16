@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
-//#include <math.h>
+#include <stdint.h>
+
 
 int main(void) {
-    // Punto 1 de la tarea
-    //fflush();
+    fflush(stdin);
     int Num1 = 0;
     int Num2 = 0;
 
@@ -18,17 +17,5 @@ int main(void) {
 
     int Sum = Num1 + Num2;
     printf("La Suma es %i \n", &Sum);
-
-    // Punto 2 de la tarea
-    // Punto 3 de la tarea
-    // Punto 4 de la tarea
-    // Punto 5 de la tarea
-    // Punto 6 de la tarea
-    // Punto 7 de la tarea
-    // Punto 8 de la tarea
-    // Punto 9 de la tarea
-
-    // Punto 10 de la tarea
-
     return 0;
 }
