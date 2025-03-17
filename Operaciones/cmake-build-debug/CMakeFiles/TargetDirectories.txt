@@ -1,3 +1,0 @@
-C:/Users/Be/Documents/ejercitacion_uni/Operaciones/cmake-build-debug/CMakeFiles/Operaciones.dir
-C:/Users/Be/Documents/ejercitacion_uni/Operaciones/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Be/Documents/ejercitacion_uni/Operaciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir

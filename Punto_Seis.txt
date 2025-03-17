@@ -1,0 +1,12 @@
+Algoritmo Punto_seis
+	Escribir "Ingrese el lado más largo del rectangulo"
+	Leer LadoA
+	Escribir "Ahora ingrese el lado más corto del rectangulo"
+	Leer LadoB
+	
+	DiagonalP = RC (LadoA^2 + LadoB^2)
+	Perimetro = LadoA *2 + LadoB *2
+	Escribir "La Diagonal del rectangulo es" , DiagonalP
+	Escribir "El Perimetro del rectangulo es" , Perimetro
+	
+FinAlgoritmo

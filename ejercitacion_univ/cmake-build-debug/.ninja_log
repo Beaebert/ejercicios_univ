@@ -1,17 +1,3 @@
 # ninja log v6
-11	399	7611007769893686	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
-402	725	7611007773793662	ejercitacion_univ.exe	9eb747bf84873a13
-54	550	7611553806383784	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
-551	1062	7611553811349803	ejercitacion_univ.exe	9eb747bf84873a13
-51	359	7611562860840633	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
-361	601	7611562863942411	ejercitacion_univ.exe	9eb747bf84873a13
-90	531	7611571371686257	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
-533	988	7611571376113797	ejercitacion_univ.exe	9eb747bf84873a13
-50	239	7611574404048660	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
-241	402	7611574405950148	ejercitacion_univ.exe	9eb747bf84873a13
-11	151	7611577132301615	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
-152	359	7611577133704667	ejercitacion_univ.exe	9eb747bf84873a13
-51	276	7611578096029858	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
-277	568	7611578098290723	ejercitacion_univ.exe	9eb747bf84873a13
-50	223	7611579046393533	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
-225	453	7611579048138494	ejercitacion_univ.exe	9eb747bf84873a13
+61	315	7614153271749155	CMakeFiles/ejercitacion_univ.dir/main.c.obj	9cd383db1159e12
+317	587	7614153274299141	ejercitacion_univ.exe	9eb747bf84873a13
