@@ -85,6 +85,30 @@ build CMakeFiles/ejercitacion_univ.dir/PuntoSeis.c.obj: C_COMPILER__ejercitacion
   OBJECT_DIR = CMakeFiles\ejercitacion_univ.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercitacion_univ.dir
 
+build CMakeFiles/ejercitacion_univ.dir/PuntoSiete.c.obj: C_COMPILER__ejercitacion_univ_unscanned_Debug C$:/Users/Be/Documents/ejercitacion_uni/ejercitacion_univ/PuntoSiete.c || cmake_object_order_depends_target_ejercitacion_univ
+  DEP_FILE = CMakeFiles\ejercitacion_univ.dir\PuntoSiete.c.obj.d
+  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercitacion_univ.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercitacion_univ.dir
+
+build CMakeFiles/ejercitacion_univ.dir/Punto_Ocho.c.obj: C_COMPILER__ejercitacion_univ_unscanned_Debug C$:/Users/Be/Documents/ejercitacion_uni/ejercitacion_univ/Punto_Ocho.c || cmake_object_order_depends_target_ejercitacion_univ
+  DEP_FILE = CMakeFiles\ejercitacion_univ.dir\Punto_Ocho.c.obj.d
+  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercitacion_univ.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercitacion_univ.dir
+
+build CMakeFiles/ejercitacion_univ.dir/Punto_Nueve.c.obj: C_COMPILER__ejercitacion_univ_unscanned_Debug C$:/Users/Be/Documents/ejercitacion_uni/ejercitacion_univ/Punto_Nueve.c || cmake_object_order_depends_target_ejercitacion_univ
+  DEP_FILE = CMakeFiles\ejercitacion_univ.dir\Punto_Nueve.c.obj.d
+  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercitacion_univ.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercitacion_univ.dir
+
+build CMakeFiles/ejercitacion_univ.dir/Punto_Diez.c.obj: C_COMPILER__ejercitacion_univ_unscanned_Debug C$:/Users/Be/Documents/ejercitacion_uni/ejercitacion_univ/Punto_Diez.c || cmake_object_order_depends_target_ejercitacion_univ
+  DEP_FILE = CMakeFiles\ejercitacion_univ.dir\Punto_Diez.c.obj.d
+  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercitacion_univ.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercitacion_univ.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ejercitacion_univ
@@ -93,7 +117,7 @@ build CMakeFiles/ejercitacion_univ.dir/PuntoSeis.c.obj: C_COMPILER__ejercitacion
 #############################################
 # Link the executable ejercitacion_univ.exe
 
-build ejercitacion_univ.exe: C_EXECUTABLE_LINKER__ejercitacion_univ_Debug CMakeFiles/ejercitacion_univ.dir/main.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Cinco.c.obj CMakeFiles/ejercitacion_univ.dir/Punto2.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Tres.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Cuatro.c.obj CMakeFiles/ejercitacion_univ.dir/PuntoSeis.c.obj
+build ejercitacion_univ.exe: C_EXECUTABLE_LINKER__ejercitacion_univ_Debug CMakeFiles/ejercitacion_univ.dir/main.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Cinco.c.obj CMakeFiles/ejercitacion_univ.dir/Punto2.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Tres.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Cuatro.c.obj CMakeFiles/ejercitacion_univ.dir/PuntoSeis.c.obj CMakeFiles/ejercitacion_univ.dir/PuntoSiete.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Ocho.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Nueve.c.obj CMakeFiles/ejercitacion_univ.dir/Punto_Diez.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ejercitacion_univ.dir

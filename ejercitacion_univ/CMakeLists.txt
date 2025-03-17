@@ -9,4 +9,8 @@ add_executable(ejercitacion_univ main.c
         Punto2.c
         Punto_Tres.c
         Punto_Cuatro.c
-        PuntoSeis.c)
+        PuntoSeis.c
+        PuntoSiete.c
+        Punto_Ocho.c
+        Punto_Nueve.c
+        Punto_Diez.c)
